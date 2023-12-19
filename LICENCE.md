@@ -1,2 +1,1 @@
-MIT LICENCE
-GPL Licence
+Licence.md added

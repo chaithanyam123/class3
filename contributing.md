@@ -1,2 +1,1 @@
-chaithanya
-manoj
+Contributing.md addes
